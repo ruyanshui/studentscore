@@ -1,0 +1,150 @@
+﻿BODY {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	
+}
+a:link {
+}
+
+/*列表页的头*/
+.title {
+	font-size: 24px;
+	line-height: 40px
+}
+
+a {
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	text-decoration: underline;
+}
+.unnamed1 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.unnamed2_link {
+	border: 1px solid #C2F0A9;
+}
+.unnamed2＿51 {
+
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #33AD16;
+	border-right-color: #33AD16;
+	border-bottom-color: #33AD16;
+	border-left-color: #33AD16;
+}
+.unnamed2_14 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.unnamed1_rld {
+	border: 1px solid #E7E7E7;
+}
+.unnamed2_ldr {
+	border: 1px solid #FF9900;
+}
+.unnamed2 {
+}
+.unnamed3_14write_b {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+tr {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+
+tbody {
+	font-size: 12px;
+}
+.unnamed_rld2 {
+	border: 1px solid #BCBCBC;
+}
+.unnamed3write {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.unnamed3write:hover {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+/*按钮样式*/
+.btn {
+	color: #ffffff;
+	background: #185fa1;
+	font: bold 14px Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	padding: 10px 10px;
+	margin: 0px 5px 5px 0;
+	border: 0;
+}
+
+/*添加修改页样式*/
+.Container770 {
+	DISPLAY: inline;
+	FLOAT: left;
+	MARGIN-LEFT: 10px;
+	WIDTH: 770px
+}
+
+.BoxHeader {
+	MIN-HEIGHT: 30px;
+	
+	WIDTH: 768px;
+		LINE-HEIGHT: 30px;
+	 
+	TEXT-ALIGN: left;
+	BORDER-LEFT: #c9e4ea 1px solid;
+	BORDER-RIGHT: #c9e4ea 1px solid;
+	BORDER-TOP: #c9e4ea 1px solid;
+	PADDING-LEFT: 10px;
+	FONT-WEIGHT: bold;
+	font-size:24px;
+	FLOAT: left;
+	VERTICAL-ALIGN: middle;
+	COLOR: #404040;
+
+}
+
+.Slot {
+	BORDER-RIGHT: #c9e4ea 1px solid;
+	PADDING-RIGHT: 10px;
+	PADDING-LEFT: 10px;
+	FLOAT: left;
+	PADDING-BOTTOM: 5px;
+	MARGIN: 0px;
+	BORDER-LEFT: #c9e4ea 1px solid;
+	WIDTH: 758px;
+	PADDING-TOP: 5px;
+	BORDER-BOTTOM: #c9e4ea 1px solid;
+	TEXT-ALIGN: left
+}
+
+.pn-flabel {
+	background-color: #F9FBFD;
+	text-align: right;
+	padding-right: 3px;
+}
+
+.pn-flabel-h {
+	height: 27px;
+}
+
+.pn-fcontent {
+	background-color: #FFFFFF;
+	padding-left: 5px;
+}
